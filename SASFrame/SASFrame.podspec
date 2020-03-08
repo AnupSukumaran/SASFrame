@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
  
   spec.name         = "SASFrame"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "New SASFrame."
   spec.description  = "New Framework"
   spec.homepage     = "https://github.com/AnupSukumaran/SASFrame"
